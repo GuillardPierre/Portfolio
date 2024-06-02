@@ -1,11 +1,10 @@
 # Bienvenue sur mon projet de portfolio
 
-Il regroupe tous mes projets utilisant du javascript vanilla, du html et du css. Tout est fait maison !
-Certains projet ne sont pas très beau ni très intéressant mais ils sont là pour montrer de là où j'ai commencé.
+Il regroupe tous mes projets utilisant javascript, du html et du css. Tout est fait maison ! 
 
-Le serveur s'appuie sur Node.js et utilise Express. Il est hébergé pour le moment ici : <https://pierrofeu.alwaysdata.net/>
+Le serveur s'appuie sur Node.js et utilise Express. Il est hébergé ici : <https://pierrofeu.alwaysdata.net/>
 
-Ma base de données pour les messages est hebergé sur mongoDB.
+Ma base de données pour les messages ainsi que les utilisateurs sont hebergés sur mongoDB.
 
 ---
 
